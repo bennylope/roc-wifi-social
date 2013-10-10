@@ -1,9 +1,9 @@
-# DC WiFi Social
+# RVA WiFi Social
 
-<img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
+<img src="https://travis-ci.org/bennylope/rva-wifi-social.png">
 
 
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of RVA locations that serve up both Internet and Alcohol
 
 *Because coding together is better than coding alone (TM)*
 
@@ -12,6 +12,8 @@
 ## License
 
 CC-BY-SA
+
+Forked from [DC WiFi Social](https://github.com/benbalter/dc-wifi-social)
 
 ## How to contribute
 
