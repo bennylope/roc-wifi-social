@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.475606,
+          37.560346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Black Hand Coffee Company",
+        "address": "3101 Patterson Ave",
+        "url": "http://blackhandcoffeeco.com"
+      }
+    }
+  ]
+}
