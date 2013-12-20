@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4573670,
+          37.5547970
+        ]
+      },
+      "properties": {
+        "marker-symbol": "lighthouse",
+        "name": "804RVA",
+        "address": "1657 West Broad Street Suite 3A, Richmond, VA, 23220"
+      }
+    }
+  ]
+}
