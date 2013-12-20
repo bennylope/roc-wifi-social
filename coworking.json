@@ -45,6 +45,21 @@
         "name": "Marvin Lang",
         "address": "1623 West Broad St, Richmond, VA 23220"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4728060,
+          37.5701460
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "hack.rva",
+        "address": "1600-E Roseneath Road, Richmond, Virginia, 23230"
+      }
     }
   ]
 }
