@@ -30,6 +30,21 @@
         "name": "Gangplank RVA",
         "address": "2930 W Broad St #9G, Richmond, VA 23230"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4565670,
+          37.5542970
+        ]
+      },
+      "properties": {
+        "marker-symbol": "art-gallery",
+        "name": "Marvin Lang",
+        "address": "1623 West Broad St, Richmond, VA 23220"
+      }
     }
   ]
 }
