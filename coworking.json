@@ -15,6 +15,21 @@
         "name": "804RVA",
         "address": "1657 West Broad Street Suite 3A, Richmond, VA, 23220"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4718730,
+          37.5635220
+        ]
+      },
+      "properties": {
+        "marker-symbol": "danger",
+        "name": "Gangplank RVA",
+        "address": "2930 W Broad St #9G, Richmond, VA 23230"
+      }
     }
   ]
 }
