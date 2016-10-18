@@ -16,6 +16,38 @@
         "address": "45 Euclid St",
         "url": "http://www.fuegocoffee.com/"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5758958124452,
+          43.1472270708374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Glen Edith Coffee Roasters",
+        "address": "23 Somerton St",
+        "url": "https://www.glenedithcoffee.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5798981246941,
+          43.1551386680073
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Glen Edith Coffee Roasters",
+        "address": "44 Elton St",
+        "url": "https://www.glenedithcoffee.com/"
+      }
     }
   ]
 }
