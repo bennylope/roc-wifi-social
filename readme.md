@@ -1,6 +1,6 @@
 # RVA WiFi Social
 
-<img src="https://travis-ci.org/bennylope/rva-wifi-social.png">
+<img src="https://travis-ci.org/bennylope/roc-wifi-social.png">
 
 
 ### A collaborative list of RVA locations that serve up both Internet and Alcohol

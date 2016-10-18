@@ -6,15 +6,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.475606,
-          37.560346
+          -77.6030774618931,
+          43.1565185195792
         ]
       },
       "properties": {
         "marker-symbol": "cafe",
-        "name": "Black Hand Coffee Company",
-        "address": "3101 Patterson Ave",
-        "url": "http://blackhandcoffeeco.com"
+        "name": "Fuego Coffee Roasters",
+        "address": "45 Euclid St",
+        "url": "http://www.fuegocoffee.com/"
       }
     }
   ]
